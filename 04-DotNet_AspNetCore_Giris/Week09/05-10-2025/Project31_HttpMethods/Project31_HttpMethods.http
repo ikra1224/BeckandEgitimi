@@ -1,0 +1,6 @@
+@Project31_HttpMethods_HostAddress = http://localhost:5197
+
+GET {{Project31_HttpMethods_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
